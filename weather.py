@@ -1,6 +1,6 @@
 import csv
 from datetime import datetime
-
+# testing123
 DEGREE_SYBMOL = u"\N{DEGREE SIGN}C"
 
 
